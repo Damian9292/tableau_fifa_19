@@ -59,4 +59,10 @@ Positioning - umiejętność ustawiania się (0-100)
 Stamina - wytrzymałość
 
 
-![image](https://github.com/Damian9292/tableau_fifa_19/assets/149601186/92be446f-3d3b-486a-a5ef-7014d8333ed2)
+![image](https://github.com/Damian9292/tableau_fifa_19/assets/149601186/d4354c5a-c32f-435f-88bb-48de4f1ef9d5)
+
+
+Zapraszam do oglądania.
+
+https://public.tableau.com/app/profile/damian.pientka/vizzes
+
